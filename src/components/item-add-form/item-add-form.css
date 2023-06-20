@@ -1,0 +1,24 @@
+
+.buttonAdd {
+    background-color: chartreuse;
+    border-radius: 10px;
+    height: 30px;
+    width: 70px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.itemAddForm {
+    height: 100px;
+    margin-top: 50px;
+    border-radius: 10px;
+    border: 3px black solid;
+}
+
+.itemAddInput {
+    height: 50px;
+    width: 350px;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
